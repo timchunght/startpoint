@@ -14,3 +14,4 @@ To rename the project, run:
 ```bash
 rails g rename:app_to New-Name
 ```
+`New-Name` is anything you want, without spaces.
