@@ -1,3 +1,5 @@
+#The StartPoint Project
+
 The StartPoint Project is a headstart for any Rails Project, meant to be used as a fast starting point to create any projects
 
 It contains:
